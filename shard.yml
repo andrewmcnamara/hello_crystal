@@ -1,0 +1,7 @@
+name: hello_crystal
+version: 0.1.0
+
+authors:
+  - Andrew McNamara <andrew.mcnamara@gmail.com>
+
+license: MIT
